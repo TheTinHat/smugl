@@ -1,0 +1,18 @@
+schema = 3
+
+[mod]
+  [mod."github.com/jinzhu/inflection"]
+    version = "v1.0.0"
+    hash = "sha256-3h3pHib5MaCXKyKLIMyQnSptDJ16kPjCOQPoEBoQsZg="
+  [mod."github.com/jinzhu/now"]
+    version = "v1.1.5"
+    hash = "sha256-NNLqoFx9FczBBDpD0O0aSHnC/YDZ9E/xQ340o7u63IM="
+  [mod."github.com/mattn/go-sqlite3"]
+    version = "v1.14.17"
+    hash = "sha256-ictf2uCW2AnQbykhI0kKPXwzHQlbHHZflZgvpqGFquY="
+  [mod."gorm.io/driver/sqlite"]
+    version = "v1.5.4"
+    hash = "sha256-6DyQSGLNyNkZjSynACgaCR6XwJFRpLaRpCg1W+ir9Q0="
+  [mod."gorm.io/gorm"]
+    version = "v1.25.5"
+    hash = "sha256-z2La4pnVVFKD5sfha18QEZeCwDWPmwql/1h0Va0wIvQ="
